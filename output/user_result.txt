@@ -1,12 +1,12 @@
 更新时间,#genre#
-2024-11-28 06:31:23,url
+2024-11-28 18:31:49,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://183.94.146.109:2222/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://58.19.38.162:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-CCTV-1,http://www.lebaobei.top:6868/rtp/239.255.30.101:8231$组播源|1920x1080
 CCTV-1,http://60.164.128.167:8029/rtp/239.255.30.101:8231$组播源|1920x1080
+CCTV-1,http://www.lebaobei.top:6868/rtp/239.255.30.101:8231$组播源|1920x1080
 CCTV-1,http://122.9.151.210:6853/rtp/238.255.2.91:5999$贵州电信组播源
 CCTV-1,http://123.56.129.203:5431/rtp/225.1.8.1:8008$组播源
 CCTV-1,http://123.56.129.203:5431/rtp/225.1.8.101:8080$组播源
@@ -15,12 +15,12 @@ CCTV-2,http://116.128.242.83:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&
 CCTV-2,http://61.136.172.236:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-2,http://183.94.146.109:2222/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-2,http://220.249.114.102:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+CCTV-2,http://coolcat.synology.me:4022/rtp/239.3.1.60:8084$组播源|1920x1080
 CCTV-2,http://123.56.129.203:4310/rtp/225.1.8.2:8084$组播源
 CCTV-2,http://123.56.129.203:4310/rtp/225.1.8.102:8004$组播源
 CCTV-2,http://122.9.151.210:6853/rtp/238.255.2.11:5999$贵州电信组播源
 CCTV-2,http://123.56.129.203:5431/rtp/225.1.8.2:8084$组播源
 CCTV-2,http://60.164.128.167:8029/rtp/239.255.30.179:8231$组播源|1920x1080
-CCTV-2,http://123.56.129.203:5431/rtp/225.1.8.102:8004$组播源
 CCTV-3,http://61.136.172.236:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-3,http://183.94.146.109:2222/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-3,http://220.249.114.102:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -177,7 +177,7 @@ CCTV-17,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1746687450_31
 CCTV-17,http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225708/main.m3u8$订阅源|IPv6
 CCTV-17,http://123.56.129.203:5431/rtp/225.1.8.17:8144$组播源
 CCTV-17,http://159.75.85.63:5678/zb.php?id=douyin$订阅源|3840x2160
-CCTV-17,http://123.144.84.109:4000/udp/225.0.4.179:7980$订阅源|1920x1080
+CCTV-17,http://116.231.168.117:4022/udp/239.45.3.52:5140$订阅源|1920x1080
 CCTV-17,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000006000268004/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=no$订阅源
 CETV1,http://122.9.151.210:6853/rtp/238.255.2.105:5999$贵州电信组播源
 CETV2,http://122.9.151.210:6853/rtp/238.255.2.221:5999$贵州电信组播源
