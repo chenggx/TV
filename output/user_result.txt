@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-11-29 06:31:13,url
+2024-11-29 18:31:55,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -45,12 +45,12 @@ CCTV-5,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&
 CCTV-5,http://116.128.242.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-5,http://183.94.146.109:2222/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5,http://220.249.114.102:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-CCTV-5,http://xeace.cn:8888/rtp/239.93.42.37:5140$组播源|1920x1080
 CCTV-5,http://60.164.128.167:8029/rtp/239.255.29.13:8231$组播源|1920x1080
 CCTV-5,http://120.55.49.231:3095/rtp/233.50.201.197:5140$组播源
 CCTV-5,http://120.55.49.231:3095/rtp/233.50.201.17:5140$组播源
 CCTV-5,http://122.9.151.210:887/rtp/238.255.2.134:5999$组播源
 CCTV-5,http://123.56.129.203:4310/rtp/225.1.8.93:8000$组播源
+CCTV-5,http://123.56.129.203:4310/rtp/225.1.8.89:8000$组播源
 CCTV-5+,http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5+,http://183.94.146.109:2222/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -184,6 +184,7 @@ CETV2,http://122.9.151.210:6853/rtp/238.255.2.221:5999$贵州电信组播源
 CETV4,http://122.9.151.210:6853/rtp/238.255.2.222:5999$贵州电信组播源
 
 💰央视付费频道,#genre#
+央视台球,http://183.53.109.145:9003//hls/126/index.m3u8$订阅源
 央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8$订阅源|IPv6
 第一剧场,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 风云足球,http://183.94.146.109:2222/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
